@@ -18,6 +18,7 @@ public class Sample2 {
 		// TODO Auto-generated method stub
 		System.out.println();
 		System.out.println();
+		System.out.println("New line added in eclipse");
 		System.out.println();
 		System.out.println();
 	}
