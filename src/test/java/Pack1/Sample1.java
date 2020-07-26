@@ -11,7 +11,7 @@ public class Sample1 {
 		System.out.println();
 		System.out.println("local commit");
 		System.out.println("I am in Dummy 1");
-		System.out.println();
+		System.out.println("Cloned code");
 		System.out.println();
 		System.out.println();
 	}
