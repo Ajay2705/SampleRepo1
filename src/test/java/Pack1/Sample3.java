@@ -10,11 +10,7 @@ public class Sample3 {
 		System.out.println();
 		System.out.println();
 		System.out.println("Sample 3 added in eclipse");
-<<<<<<< HEAD
-		System.out.println("Sample 3 class added in eclipse new line");
-=======
 		System.out.println("Sample 3 added in eclipse new line in system locally");
->>>>>>> bd0cc3fdda92d68cf742eabb19d947b766d3fd44
 	}
 
 
