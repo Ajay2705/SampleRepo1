@@ -10,6 +10,7 @@ public class Sample3 {
 		System.out.println();
 		System.out.println();
 		System.out.println("Sample 3 added in eclipse");
+		System.out.println("Sample 3 class added in eclipse new line");
 	}
 
 
