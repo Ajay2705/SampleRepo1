@@ -9,7 +9,7 @@ public class Sample1 {
 		// TODO Auto-generated method stub
 		System.out.println();
 		System.out.println();
-		System.out.println();
+		System.out.println("local commit");
 		System.out.println("I am in Dummy 1");
 		System.out.println();
 		System.out.println();
